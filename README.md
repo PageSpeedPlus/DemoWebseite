@@ -1,9 +1,8 @@
-# DemoWebseite
-Eine Demo Webseite
-Anleitung zur Installation einen Grundsystems 2018
+# Basic Web Development Setup 201
 
-0. Git Projekt erstellen!!!!
 1. nodejs intallieren
 2. cmd im Pfad öffnen
-3. eingeben "npm install gulp-cli -g"
-4. eingeben "npm install gulp -D"
+3. "npm install gulp-cli -g"
+4. "npm install gulp -D"
+5. "npm init"
+6. Eine neu Datei erstellen ".gitignore" (Inhalt= "node_modules")
