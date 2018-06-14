@@ -1,8 +1,11 @@
-# Basic Web Development Setup 201
+# Basic Web Development Setup 2018
 
-1. nodejs intallieren
-2. cmd im Pfad öffnen
-3. "npm install gulp-cli -g"
-4. "npm install gulp -D"
-5. "npm init"
-6. Eine neu Datei erstellen ".gitignore" (Inhalt= "node_modules")
+Vorausgestzte Programme:
+nodejs und git
+
+Folgenden sachen sollen durchgeführt werden
+
+1. cmd im Pfad öffnen
+2. "git clone https://github.com/Xorwas/DemoWebseite.git"
+3. "npm install"
+4. "gulp"
