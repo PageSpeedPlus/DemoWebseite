@@ -11,4 +11,4 @@ Folgenden sachen sollen durchgeführt werden
 4. "gulp"
 
 Tutorial (Quelle):
-https://www.youtube.com/watch?v=0Z8elFLmcTc&list=FLb8sXLGJzVVonBn-fSS_x7g&t=882s&index=2
+https://youtu.be/0Z8elFLmcTc
