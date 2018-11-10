@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="per-schieberegler-zum-css-–-cssmatic.com">Per Schieberegler zum CSS – <a href="http://cssmatic.com">cssmatic.com</a></h1>
 <p><strong>CSS ist aus der Webgestaltung schon lange nicht mehr wegzudenken. Selbst Webentwickler mit viel Erfahrung können immer wieder mit neuen Kniffen und Ideen überrascht werden, die erst mit CSS möglich wurden. Ein kleines Tool mit dem Namen CSS-Matic ermöglicht es, CSS-Code für Schatten, Ecken und Verläufe per Schieberegler zu erstellen.</strong></p>
 <p><strong>CSS-Matic</strong>  ist erreichbar unter  <a href="https://www.cssmatic.com/">cssmatic.com</a>. Die Bedienung ist denkbar einfach: Aus den vier vorgegebenen Optionen Farbverläufe (Gradient Generator), Eckenradius (Border Radius), Texturen mit Rauschen (Noise Textures) und Schatten (Box Shadow) wählt der Nutzer einfach das gerade benötigte aus.</p>
